@@ -1,0 +1,25 @@
+.coupon__create{
+    border: grey 1px solid;
+    margin: 2rem 2rem 1rem 2rem;
+    border-radius: 6px;
+}
+
+.coupon__table{
+    margin: 0 2rem 0 2rem;
+}
+
+.createCoupon__title{
+    padding-left: 1rem;
+    width: 6rem;
+    background: white;
+    margin-top: -1rem;
+    margin-left: 1rem;
+}
+
+.createCoupon__form{
+    margin: 0 2rem;
+}
+
+.btn__save{
+    margin-left: 1rem;
+}

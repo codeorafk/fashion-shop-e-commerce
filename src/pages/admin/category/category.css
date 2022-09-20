@@ -1,0 +1,45 @@
+.category__create{
+    margin: 2rem 2rem 0 2rem;
+    border: grey 1px solid;
+    border-radius: 6px;
+    width: 60%;
+}
+
+.category__create--title{
+    background-color: white;
+    margin-left: 1rem;
+    margin-top: -1rem;
+    padding-left: 1rem;
+    width: 6rem;
+}
+
+.category__create--form{
+    margin: 1rem;
+}
+
+.category__list{
+    margin: 3rem 2rem 1rem 2rem;
+    border: grey 1px solid;
+    border-radius: 6px;
+}
+
+.category__list--title{
+    background-color: white;
+    margin-left: 1rem;
+    margin-top: -1rem;
+    padding-left: 1rem;
+    width: 14rem;
+}
+
+.category__list--list{
+    margin: 1rem;
+}
+
+.list--array{
+    height: 16rem; 
+    overflow-y: auto;
+}
+
+.form__title--edit{
+    margin-top: -4px;
+}

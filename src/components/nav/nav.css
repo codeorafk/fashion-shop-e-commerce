@@ -1,0 +1,22 @@
+
+.nav__item{
+    width: 80%;
+    margin: 6px 0;
+}
+
+.nav__item:hover{
+    background-image: linear-gradient(to right, #09c6f9 , white);
+}
+.nav__item:hover a{
+    color: white;
+}
+
+.nav__selected{
+    background-image: linear-gradient(to right, #09c6f9 , white);
+    color: white;
+    font-weight: 500;
+}
+
+.nav__selected a{
+    color: white;
+}

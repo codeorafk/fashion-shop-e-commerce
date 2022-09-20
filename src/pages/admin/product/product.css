@@ -1,0 +1,39 @@
+.product__create{
+    border: black 1px solid;
+    border-radius: 6px;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+
+.product__create--title{
+    height: 4rem;
+    width: 16rem;
+    margin-top: -1rem;
+    margin-left: 2rem;
+    padding-left: 1rem;
+    background-color: white;
+}
+
+.product__create--fileUpload{
+    border: 1px grey solid;
+    margin: 0 2rem;
+}
+
+.fileUpload__title{
+    background-color: white;
+    width: 4rem;
+    height: 2rem;
+    margin-top: -1.8rem;
+}
+
+.fileUpload__btn{
+    margin-left: 1rem;
+}
+
+.product__create--inputFields{
+    margin: 2rem 2rem 0 2rem;
+}
+
+.allProduct--h4{
+    margin-bottom: 2rem;
+}
